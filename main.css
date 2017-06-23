@@ -1,0 +1,66 @@
+body {
+    margin-top: 150x;
+	background-image: url('https://source.unsplash.com/HhmCIJTLuGY'); 
+	background-size: cover;
+	background-position: center;
+}
+
+
+#About {
+	margin-top: 200px;
+	padding-top: 100px;
+    background:rgba(1,1,1,0.5);
+}
+
+#me {
+	font-size: 50px;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+
+#tagline {
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+
+#story {
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+.btn {
+	margin-bottom: 50px;
+	box-shadow: 1px 1px 1px 1px rgba(0,0,0,1.2), 1px 1px 1px 1px rgba(0,0,0,1.19);
+}
+
+#Portfolio {
+	margin-top: 250px;
+	background:rgba(1,1,1,0.5);
+
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+
+#Contact {
+	background:rgba(1,1,1,0.5);
+	margin-top: 200px;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+}
+
+#photo {
+	float: right;
+	width: 15%;
+	border-radius: 50%;
+	padding: 5px 0px 5px 0px;
+}
+
+#footer {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+	font-family: 'Pangolin', cursive;
+	background:transparent;
+}
